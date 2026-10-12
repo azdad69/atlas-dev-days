@@ -29,7 +29,6 @@ color: aliceblue;
   padding: 0%;
   margin:0px;
   font-style:oblique;
-  padding: 0%;
 }
 .tarikh{
   color: black;
@@ -39,7 +38,7 @@ color: aliceblue;
   left: 2%;
   font-size: 40px;
 }
-.location{
+.location p{
   color: black;
   font-size: larger;
   position: absolute;
@@ -92,7 +91,7 @@ font-style: italic;
 background-color:gray;
 padding: 1.5%;
 top: 20%;
-font-size: 250%;
+font-size: 200%;
 left: 52%;
 border-radius: 1.5%;
 }
@@ -102,7 +101,7 @@ font-style: italic;
 background-color:gray;
 padding: 1.5%;
 top: 20%;
-font-size: 250%;
+font-size: 200%;
 border-radius: 1.5%;
 }
 .jour1{
